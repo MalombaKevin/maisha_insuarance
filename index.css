@@ -208,3 +208,12 @@ nav>ul>li {
     Padding: 30px;
     height: 300px;
 }
+
+.lyft {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#images2 {
+    height: 50px;
+}
