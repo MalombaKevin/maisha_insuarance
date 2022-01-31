@@ -1,4 +1,4 @@
-# Maisha Insurance
+# MaishaInsurance
 
 ##### By Kevin Malomba
 ### Front-end developer
@@ -55,7 +55,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](# Maisha Insurance)
+[Go Back to the top](#MaishaInsurance)
 
 
 ## Authors Info 
@@ -66,7 +66,7 @@ SOFTWARE.
 #### Twitter Profile
 [kmalomba](https://twitter.com/kmalomba)
 
-[Go Back to the top](# Maisha Insurance)
+[Go Back to the top](#MaishaInsurance)
 
 
 
