@@ -1,7 +1,7 @@
-# Maisha Insuarance
+# Maisha Insurance
 
 ##### By Kevin Malomba
-### First Time Programmer (The first step in a journey of 1,000 miles)
+### Front-end developer
 
 ## Table of Content
 
@@ -55,7 +55,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](#Maisha Insuarance)
+[Go Back to the top](#Maisha Insurance)
 
 
 ## Authors Info 
@@ -66,7 +66,7 @@ SOFTWARE.
 #### Twitter Profile
 [kmalomba](https://twitter.com/kmalomba)
 
-[Go Back to the top](#Maisha Insuarance)
+[Go Back to the top](#Maisha Insurance)
 
 
 
