@@ -256,7 +256,7 @@ nav>ul>li {
 
 .price2 {
     display: flex;
-    height: 600px;
+    height: 550px;
     justify-content: center;
     margin-top: 5px;
     /* height: 300px; */
@@ -264,20 +264,22 @@ nav>ul>li {
 
 .priceA {
     border: 1px solid #23A6F0;
-    width: 250px;
+    width: 350px;
     text-align: center;
 }
 
 .priceB {
     border: 1px solid #23A6F0;
-    width: 250px;
+    width: 350px;
     text-align: center;
     margin-top: -30px;
+    background-color: #252B42;
+    color: white;
 }
 
 .priceC {
     border: 1px solid #23A6F0;
-    width: 250px;
+    width: 350px;
     text-align: center;
 }
 
@@ -293,4 +295,41 @@ nav>ul>li {
 #tick {
     height: 20px
     /* margin-top: 10px; */
+}
+
+#trybutton {
+    background-color: #23A6F0;
+    border-radius: 10px;
+    height: 50px;
+    width: 200px;
+    border: 1px solid #23A6F0;
+    color: white;
+    font-size: large;
+}
+
+.footer1 {
+    margin-top: 200px;
+    height: 1000px;
+    background-color: #252B42;
+    display: flex;
+    /* margin-right: 150px; */
+    /* margin-left: 250px; */
+}
+
+.footgraph {
+    margin-top: 100px;
+    color: white;
+    position: relative;
+    left: 200px;
+    font-size: xx-large;
+}
+
+.worldmap {
+    position: relative;
+    left: 300px;
+    margin-top: 200px;
+}
+
+#worldmap {
+    height: 250px;
 }
