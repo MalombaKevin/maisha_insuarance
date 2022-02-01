@@ -181,11 +181,29 @@
         <div class="worldmap">
             <img src="./Assets/worlmap.png" id="worldmap">
         </div>
-        <div class="booking">
-
-        </div>
 
     </div>
+    <div class="booking">
+        <form>
+            <caption>Book Appointment</caption><br><br>
+            <label for="Name">Name*</label><br><br>
+            <input type="Name" id="Name" placeholder="Full Name*" required><br><br>
+            <label for="Email">Email address*</label><br><br>
+            <input type="Email" id="Email" placeholder="example@gmail.com"><br><br>
+            <label for="Department">Department*</label><br><br>
+            <input list="Department">
+            <datalist id="Department" placeholder="Please Select">
+                <option value="Finance">
+            </datalist><br><br>
+            <label for="Time">Time*</label><br><br>
+            <input list="Time" Id="Time" Placeholder="4:00 Available">
+            <br><br><br> <button Id="bookbutton"> Book Appointment</button>
+
+
+        </form>
+
+    </div>
+
 
 
 
