@@ -212,8 +212,85 @@ nav>ul>li {
 .lyft {
     display: flex;
     justify-content: space-evenly;
+    height: 150px;
 }
 
 #images2 {
     height: 50px;
+}
+
+.subscribe {
+    border: 1px solid black;
+    width: height: 120px;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-around;
+    Width: 950px;
+    position: relative;
+    left: 350px;
+}
+
+.sub2 {
+    display: flex;
+    position: relative;
+    left: 40px;
+}
+
+#subutton {
+    position: relative;
+    left: 30px;
+}
+
+.pricing {
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 40px;
+}
+
+.price1 {
+    text-align: center;
+}
+
+.price2 {
+    display: flex;
+    height: 600px;
+    justify-content: center;
+    margin-top: 5px;
+    /* height: 300px; */
+}
+
+.priceA {
+    border: 1px solid #23A6F0;
+    width: 250px;
+    text-align: center;
+}
+
+.priceB {
+    border: 1px solid #23A6F0;
+    width: 250px;
+    text-align: center;
+    margin-top: -30px;
+}
+
+.priceC {
+    border: 1px solid #23A6F0;
+    width: 250px;
+    text-align: center;
+}
+
+.cash {
+    color: #23A6F0;
+    display: inline-block;
+}
+
+#textsize {
+    font-size: 1;
+}
+
+#tick {
+    height: 20px
+    /* margin-top: 10px; */
 }
